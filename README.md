@@ -1,2 +1,2 @@
 # Analaisis-Sentimen-Menggunaka-Metode-KNN
-Sistem informasi inventaris berbasis web adalah sebuah sistem yang bertujuan untuk memudahkan pihak sekolah dalam merekapitulasi data inventaris sarana dan prasarana yang lebih akurat. Perancangan juga bertujuan memudahkan Koordinator Sapras dalam pendataan inventaris sekolah tanpa membuang banyak waktu dalam pendataan dan bisa diakses dimana pun dan kapanpun. Pada sistem ini mempunyai 3 level user yaitu pegawai, petugas, dan admin. Sistem dibuat menggunakan PHP, javaScript, Bootstrap dan CSS.
+Analisis Sentimen digunakan untuk mengetahui opini masyarakat terhadap penggunaan QRIS pada media sosial twitter. Analisis dilakukan dengan menggunakan bahasa pemrograman python.
